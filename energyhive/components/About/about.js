@@ -19,18 +19,12 @@ export default function About() {
 
                 <div className="about-text-cont">
                     <p>
-                        lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        We are dedicated to bridging the gap in energy access, ensuring that reliable and sustainable electricity reaches even the most remote areas. Our mission is to empower communities with the essential resources they need to thrive by leveraging innovative technologies and sustainable energy solutions.
 
                         <br></br>
                         <br></br>
 
-                        lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        We recognize that access to electricity is not just about power—it’s about opportunity, growth, and progress. With a focus on decentralized, clean energy solutions and community engagement, we aim to transform lives by providing access to reliable energy, fostering economic growth, and supporting a greener future for all.
                     </p>
                 </div>
             </div>
