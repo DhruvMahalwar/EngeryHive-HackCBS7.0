@@ -1,21 +1,36 @@
-# EngeryHive-HackCBS7.0
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-# P2P Energy Trading Platform
+## Getting Started
 
-## Overview
-The P2P Energy Trading Platform is a decentralized application (dApp) designed for peer-to-peer (P2P) energy trading using blockchain technology. This platform allows users to buy and sell energy units directly from each other without a centralized intermediary. Built on Ethereum and utilizing smart contracts, it provides a transparent, secure, and efficient way for users to engage in energy trading.
+First, run the development server:
 
-## Features
-- **Energy Purchase**: Users can buy energy units directly from sellers through a decentralized mechanism.
-- **Dynamic Pricing**: Price per unit can be updated by the seller to reflect current market conditions.
-- **Platform Fee**: A customizable platform fee is charged on each transaction to support platform sustainability.
-- **Transaction History**: Buyers and sellers can view past transactions to maintain transparency.
-- **Security**: Includes robust authentication and secure smart contract-based transaction handling.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Technologies Used
-- **Frontend**: React.js, Next.js
-- **Backend**: Node.js, Express.js
-- **Blockchain**: Ethereum
-- **Smart Contracts**: Solidity
-- **Ethereum Development**: ethers.js
-- **Contract Interaction**: MetaMask or compatible Ethereum wallet
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
