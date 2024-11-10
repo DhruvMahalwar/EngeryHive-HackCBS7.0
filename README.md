@@ -17,10 +17,10 @@
 4. <b>Blockchain Based Transcations</b><br><br>
 
 <h2>Testimonials</h2>
-![WhatsApp Image 2024-11-09 at 22 39 08](https://github.com/user-attachments/assets/2eb0aafd-8435-4adc-bcf1-0a553e57eab5)
+![temp](https://github.com/user-attachments/assets/0a049c8e-5072-4666-82ce-ccae099f1e3e)
 <br>
 Source:https://www.tataworld.com/news/openinside/tata-power-ddl-rolls-out-live-peer-to-peer-solar-energy-trading<br><br>
-![WhatsApp Image 2024-11-09 at 22 41 33](https://github.com/user-attachments/assets/7343981b-dc5b-4e84-9cce-1ac1a58bef4a)
+![temp1](https://github.com/user-attachments/assets/f6e6c668-d046-48fe-91b9-7d2d1969f9ef)
 <br>
 Source :https://powerledger.io/clients/uttar-pradesh-government-india/ <br><br>
 
