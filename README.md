@@ -1,3 +1,27 @@
+<h2>**Issue with with Power Sector**</h2>
+1. Most production of electricity is from coal leading to  higher costs, increased carbon footprinting & other environmental issues .
+2. In 2022-23,  Discoms in India reported financial losses of Rs 68,832 crore, which is four times higher than the previous year due to coal import, processing cost, high grid maintenance and theft .
+3. Because of centralized power sector, Individuals with surplus energy, like small solar producers, face challenges in selling their energy directly to those in need, often getting underpaid for their contributions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
