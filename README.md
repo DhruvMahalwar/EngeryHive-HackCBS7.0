@@ -1,9 +1,9 @@
 <h2> Presentation : https://www.canva.com/design/DAGV9-p2zBA/ed03Gkunk2wBdZYJMoXkUw/edit?utm_content=DAGV9-p2zBA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</h2>
-
+<h2> Demo Video : https://drive.google.com/file/d/1KM9VjSx78PfljRDUytpW0VYm-t-hAtbz/view?usp=sharing</h2>
 ## Overview
-India’s power sector faces significant challenges, primarily due to its dependency on coal and the inefficiencies in the centralized system. These factors contribute to environmental concerns, high costs, and inefficiencies that affect both producers and consumers. 
+India’s power sector is losing billions due to traditional  grid networks and power generation from non renewable resources(coal) . But what if individuals could trade energy with each other that too clean energy making them prosumers instead of consumers ?
 
-This document outlines key issues in the sector, proposes innovative solutions, and highlights the features and benefits of a decentralized peer-to-peer (P2P) energy trading platform.
+EnergyHive—a decentralized, blockchain-based platform that lets small producers sell surplus renewable energy securely and at fair, market-driven prices. More than just an energy exchange, EnergyHive empowers communities and fuels a sustainable future. Let’s dive in and see how we’re revolutionizing energy one watt at a time!
 
 ---
 
