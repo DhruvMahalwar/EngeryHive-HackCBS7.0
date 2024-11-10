@@ -3,7 +3,6 @@ import React, { useState, useEffect, useRef } from "react";
 import "./bid.css";
 import "react-responsive-modal/styles.css";
 import { Modal } from "react-responsive-modal";
-
 import { Bar } from "react-chartjs-2";
 import io from "socket.io-client";
 import {

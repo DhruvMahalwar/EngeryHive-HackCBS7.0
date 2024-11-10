@@ -8,7 +8,7 @@ export default function Service() {
     return (
         <>
             <div className="service-head">
-                <h1>Our Features</h1>
+                <h1>Our Services</h1>
             </div>
             <div className="cards">
                 <Cards image='/ai.png' head='Predictive Analysis' text='Predictive Analysis using AI&ML' />

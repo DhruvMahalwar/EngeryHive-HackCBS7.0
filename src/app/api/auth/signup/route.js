@@ -22,16 +22,14 @@ export async function POST(request) {
         //hash password
         const salt = await bcryptjs.genSalt(10);
         const hashpassword = await bcryptjs.hash(password, salt);
-        const token = 0;
+
         const newUser = {
             username: username,
             email: email,
             password: hashpassword,
             products: [],
-            transactions: [],
-            token: token
+            transactions: []
         }
-        console.log(newUser, "&")
 
         const registerUser = await User.create(newUser)
         console.log(registerUser)
@@ -40,4 +38,6 @@ export async function POST(request) {
     } catch (error) {
         return NextResponse.json({ error: error.message }, { status: 500 })
     }
+
+
 }
